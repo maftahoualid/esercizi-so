@@ -3,9 +3,6 @@
 #include <fcntl.h>
 #include <sys/stat.h>
 
-./
-/
-
 int main(){
     char *path = "./myfifo";
     int ret = mkfifo(path, 0777);

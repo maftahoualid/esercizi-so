@@ -1,3 +1,0 @@
-/home/wally/Documenti/GitHub/esercizi-so/es-lab/cmake-build-debug/CMakeFiles/es_lab.dir
-/home/wally/Documenti/GitHub/esercizi-so/es-lab/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/wally/Documenti/GitHub/esercizi-so/es-lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
