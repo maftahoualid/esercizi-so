@@ -10,7 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccaf0b68-6504-4bc3-81d6-d269c8d5eadd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/L5/msq/es1/es1-client.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/msq/es1/es1.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../filesystem.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +64,8 @@
       <workItem from="1689608685405" duration="11337000" />
       <workItem from="1689620745820" duration="13000000" />
       <workItem from="1689692132153" duration="4356000" />
-      <workItem from="1689700689292" duration="666000" />
+      <workItem from="1689700689292" duration="5341000" />
+      <workItem from="1689707880887" duration="1180000" />
     </task>
     <servers />
   </component>
