@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccaf0b68-6504-4bc3-81d6-d269c8d5eadd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/L2/es4/es4b.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/sig/es1/es1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/sig/es2/es2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/sig/es3/es3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/sig/es4/es4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exec/execl.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exec/execle.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exec/execlp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exec/execv.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exec/execve.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exec/execvp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/es-lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/es-lab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/es1/es1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/es1/es1.c" beforeDir="false" afterPath="$PROJECT_DIR$/L1/es1/es1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/es3/b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/es3/es3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/es3/es3.c" beforeDir="false" afterPath="$PROJECT_DIR$/L1/es3/es3.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ShRCEkaq0oGpMi0wBNjsCI2arW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/wally/Documenti/GitHub/esercizi-so/exec",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccaf0b68-6504-4bc3-81d6-d269c8d5eadd" name="Changes" comment="" />
+      <created>1689596696973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689596696973</updated>
+      <workItem from="1689596698177" duration="2757000" />
+      <workItem from="1689608685405" duration="11337000" />
+      <workItem from="1689620745820" duration="13000000" />
+      <workItem from="1689692132153" duration="4356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

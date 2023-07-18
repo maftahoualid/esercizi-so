@@ -27,7 +27,6 @@ int main(int argc, char** argv){
         } while(br>0);
         printf("\n");
 
-
         close(fd);
     }
     return 0;
